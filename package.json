@@ -1,27 +1,22 @@
 {
-  "name": "static",
+  "name": "HTML-CSS-course",
   "version": "1.0.0",
-  "description": "This is a static template with no bundling",
+  "description": "Smartogram",
   "main": "index.html",
   "scripts": {
-    "start": "serve",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
+    "start": "serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git@github.com:Ne4istb/smartians-html-css-codesandbox.git"
   },
-  "keywords": [
-    "static",
-    "template",
-    "codesandbox"
-  ],
-  "author": "Ives van Hoorne",
+  "keywords": ["smartians", "html", "css"],
+  "author": "Ne4istb",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://github.com/Ne4istb/smartians-html-css-codesandbox/issues"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "https://html-css-course.smartians.com/",
   "devDependencies": {
     "serve": "^11.2.0"
   }
